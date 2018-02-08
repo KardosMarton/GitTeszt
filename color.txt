@@ -1,0 +1,13 @@
+red
+green
+blue
+balck
+yellow
+orange
+purple
+
+white
+lihtg blue
+light yellow
+light black
+
