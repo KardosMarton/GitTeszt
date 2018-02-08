@@ -1,0 +1,5 @@
+//This file contains the attributes to the UI design like margin, textsize, textcolor
+
+android:layout_margin="8dp"
+android:textSize="24sp"
+android:textColor="@values/redgreen"
