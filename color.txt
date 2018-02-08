@@ -1,10 +1,6 @@
 red
 green
-blue
-balck
-yellow
-orange
-purple
+
 
 white
 lihtg blue
